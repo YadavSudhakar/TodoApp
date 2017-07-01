@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "mongodb": "^2.2.29",
+    "mongoose": "^4.5.9",
     "nodemon": "^1.11.0"
   }
 }
